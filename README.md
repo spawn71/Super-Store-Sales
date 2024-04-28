@@ -1,4 +1,4 @@
-# PCustomer Segmentation and Sales Analysis
+# Customer Segmentation and Sales Analysis
 
 ## Description
 
@@ -7,15 +7,13 @@ A retail company wants to better understand its customer base and improve its sa
 
 ## Screenshot
 
-![dashboard preview](https://github.com/spawn71/Covid-Cases-Analysis/blob/main/ss-coivd.png)
-![dashboard preview](https://github.com/spawn71/Covid-Cases-Analysis/blob/main/ss-covid2.png)
-![dashboard preview](https://github.com/spawn71/Covid-Cases-Analysis/blob/main/ss-covid3.png)
+![dashboard preview](https://github.com/spawn71/Super-Store-Sales/blob/main/supe-1.png)
+![dashboard preview](https://github.com/spawn71/Super-Store-Sales/blob/main/super2.png)
+![dashboard preview](https://github.com/spawn71/Super-Store-Sales/blob/main/super3.png)
 
 ## Tools
 
 * Python - Pandas, Matplotlib, Seaborn
-
-Key Components:
 
 Steps to Solve:
 
